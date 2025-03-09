@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bek</h1>
-- 🔭 I’m currently working on **Amazing Projects**
+- 🔭 I’m currently working on **spectacular projects**
 
-- 🌱 I’m currently learning **MongoDB, JavaScript, APIs**
+- 🌱 I’m currently learning **MongoDB, JavaScript and some interesting APIs**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
