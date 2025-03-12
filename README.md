@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **bekhruzm@usf.edu**
 
-- ⚡ Fun fact **I believe I am funny, but I am not**
+- ⚡ Interesting fact **I can type in Russian with an English keyboard**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
