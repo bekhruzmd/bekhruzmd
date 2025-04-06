@@ -25,5 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bekhruzmd&show_icons=true&locale=en&layout=compact" alt="bekhruzmd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bekhruzmd&show_icons=true&locale=en" alt="bekhruzmd" /></p>
 
