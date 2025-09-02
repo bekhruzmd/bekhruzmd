@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **blashcards**
 
-- 🌱 I’m currently learning **MongoDB, JavaScript and some interesting APIs**
+- 🌱 I’m currently learning **MongoDB and LLMs**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
