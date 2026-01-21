@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bekhruz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bekhruzmd&label=Profile%20views&color=0e75b6&style=flat" alt="bekhruzmd" /> </p>
 
-- 🔭 I’m currently working on **LLM Fine Tuning**
+- 🔭 I’m currently working on **LLM Fine Tuning and Intelligent Contact Network**
 
-- 🌱 I’m currently learning **MongoDB and LLMs**
+- 🌱 I’m currently learning **Flask, MSSQL and LLMs**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
