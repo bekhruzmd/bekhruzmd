@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m looking for help with **new technology**
+- 🤝 I’m looking for help with **iOS development**
 
 - 📫 How to reach me **bekhruzm@usf.edu**
 
